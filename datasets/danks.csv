@@ -1,0 +1,9 @@
+Cues,Outcomes,Frequency
+pots_red_blue,y,5
+pots_red_blue,n,0
+pots_red,y,10
+pots_red,n,5
+pots_blue,y,5
+pots_blue,n,10
+pots,y,0
+pots,n,5
